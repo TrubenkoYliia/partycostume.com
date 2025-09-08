@@ -1,8 +1,8 @@
 
 document.addEventListener('DOMContentLoaded', function () {
   const dresses = [
-    { name: "Milana", image: "img/ball/milana.jpg", article: "005", price: "250 грн", description: "Легка і стильна сукня для святкової події" },
-    { name: "Dina", image: "img/ball/dina.jpg", article: "006", price: "250 грн", description: "Легка і стильна сукня для святкової події"  },
+    { name: "Milana", image: "img/ball/milana.JPG", article: "005", price: "250 грн", description: "Легка і стильна сукня для святкової події" },
+    { name: "Dina", image: "img/ball/dina.JPG", article: "006", price: "250 грн", description: "Легка і стильна сукня для святкової події"  },
     { name: "Susanna", image: "img/ball/susanna.jpg", article: "007", price: "250 грн" },
     { name: "Kriss", image: "img/ball/kriss.jpg", article: "008", price: "250 грн" },
     { name: "Zannin", image: "img/ball/zanni.jpg", article: "009", price: "250 грн" },
@@ -238,6 +238,7 @@ secondModal.addEventListener('click', function (e) {
   }
 });
 });
+
 
 
 
